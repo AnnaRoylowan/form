@@ -1,0 +1,14 @@
+div{
+    background-color: rgb(245, 128, 179);
+    height: 400px;
+    width: 250px;
+justify-content: space-between;
+padding: 20px;
+
+
+
+}
+label{
+  bottom: 20px;
+}
+    
